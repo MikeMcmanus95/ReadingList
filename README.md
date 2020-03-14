@@ -1,5 +1,7 @@
 # Reading List
 
+[![Hooks Reading List](/src/image.png 'Hooks Reading List, Image')](https://imgur.com/eFQHIyk)
+
 This is an application I made to test out using React Context API in combination
 with hooks. When combined together this gave me tons of cool functionality like
 global state, reducers, and more without needing to use Redux!
